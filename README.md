@@ -1,2 +1,2 @@
 # brunopedro.ob
-leitura de QR para a presnça
+leitura de QR para presença
